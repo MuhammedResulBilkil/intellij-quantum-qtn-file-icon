@@ -2,6 +2,12 @@
 
 A minimal JetBrains plugin that adds a custom file icon for [Photon Quantum](https://www.photonengine.com/quantum) `.qtn` files.
 
+## Preview
+
+| Before | After |
+|:---:|:---:|
+| ![Before](docs/images/BeforePluginInstalled.png) | ![After](docs/images/AfterPluginInstalled.png) |
+
 ## Features
 
 - 🎨 Custom icon for `*.qtn` files in the Project View, editor tabs, and navigation
